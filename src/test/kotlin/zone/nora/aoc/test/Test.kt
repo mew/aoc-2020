@@ -1,10 +1,10 @@
 package zone.nora.aoc.test
 
 import org.junit.Test
-import zone.nora.aoc.days.impl.Day09
+import zone.nora.aoc.days.impl.Day10
 
 class Test {
-    private val currentDay = Day09
+    private val currentDay = Day10
 
     @Test
     fun testFirstPart() {
